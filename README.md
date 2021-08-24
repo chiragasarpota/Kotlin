@@ -1,4 +1,4 @@
-![Kotlin Logo](kotlin.svg)
+<img src="kotlin.svg" width=250>
 
 Kotlin language Docs
 
