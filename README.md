@@ -1,4 +1,5 @@
-# Kotlin
+![Kotlin Logo](kotlin.svg)
+
 Kotlin language Docs
 
 This is a sample kotlin code block:
@@ -8,3 +9,4 @@ fun main(){
   println("Hello World")
 }
 ```
+
